@@ -742,6 +742,7 @@
 - [Dastageer HC](https://github.com/dastageer-hc)
 - [Serhat Bağlam](https://github.com/Rserhat01)
 - [MK Saba](https://github.com/mksaba)
+- [Sopen](https://github.com/sopenlaz0)
 - Ishwari Pillay
 - Jiang J
 - [Pritam Das](https://github.com/4ritam)
